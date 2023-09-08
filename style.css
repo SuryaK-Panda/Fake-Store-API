@@ -1,0 +1,22 @@
+.cart-icon {
+    position: relative;
+    display: inline-block;
+}
+#lblcount {
+    position: absolute;
+    top: -6px;
+    right: -10px;
+    padding: 3px 6px;
+    border-radius: 100%;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+}
+span {
+    font-size: 18px;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
